@@ -42,9 +42,6 @@ Se realizaron pruebas exhaustivas para medir el tiempo de ejecución de cada alg
 
 Este proyecto permitió no solo implementar cada algoritmo, sino también medir y comparar su rendimiento en diferentes escenarios, brindando una comprensión más profunda sobre cuándo y por qué elegir un algoritmo sobre otro según la situación específica.
 
----
-
-Si tienes dudas, sugerencias o quieres contribuir, ¡no dudes en contactarme o abrir un issue!
 
 ---
 
